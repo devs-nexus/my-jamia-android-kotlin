@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_50">#303030</color>
+    <color name="purple">#7A30FF</color>
+
+    <color name="bg_color">#1F2325</color>
+    <color name="text_color">#CFCFCF</color>
+
+    <color name="icon_tint">#DDDDDD</color>
+    <color name="card_bg_color">#292F33</color>
+    <color name="card_shadow_color">@color/white</color>
+</resources>

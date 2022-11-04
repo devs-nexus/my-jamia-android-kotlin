@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Jamia</string>
+
+    //for Login Activity
+    <string name="login_label_sign_in">Sign In</string>
+    <string name="login_label_sign_up">Sign Up</string>
+    <string name="login_label_dont_have_account">Don\'t have an account?</string>
+    <string name="login_label_already_have_account">Already have an account?</string>
+
+    //for Login Fragment
+    <string name="login_hint_jamia_id">Jamia ID</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_label_remember_me">Remember Me</string>
+
+    //for Sign Up Fragment
+    <string name="signup_hint_jamia_id">@string/login_hint_jamia_id</string>
+    <string name="signup_hint_email">Email</string>
+    <string name="signup_hint_password">Password</string>
+    <string name="signup_hint_mobile_number">Mobile Number</string>
+
+    //for Home Activity
+    <string name="home_profile_icon_desc">Profile</string>
+    <string name="home_hostel_card_desc">Hostel</string>
+    <string name="home_hostel_id_card">ID Card</string>
+    <string name="home_hostel_library_card">Library Card</string>
+    <string name="home_hostel_wifi_card">Wifi Card</string>
+    <string name="home_hostel_grievances_card">Grievances Card</string>
+
+    //for Profile Activity
+    <string name="profile_image_desc">Profile Image</string>
+    <string name="profile_label_name">Name</string>
+    <string name="profile_label_description">Description</string>
+    <string name="profile_label_personal_data">Personal Data</string>
+    <string name="profile_label_settings">Settings</string>
+    <string name="profile_label_feedback">Feedback</string>
+    <string name="profile_label_faq">FAQ</string>
+    <string name="profile_label_about">About</string>
+    <string name="profile_label_logout">Logout</string>
+    <string name="terms_of_use"><u>Terms of Use</u></string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+
+    //for Personal Data Activity
+    <string name="personal_data_back_button_desc">Back Button</string>
+    <string name="personal_data_label_personal_data">Personal Data</string>
+    <string name="personal_data_edit_profile_desc">Edit Profile Photo</string>
+    <string name="personal_data_label_jamia_id">@string/login_hint_jamia_id</string>
+    <string name="personal_data_label_first_name">First Name</string>
+    <string name="personal_data_label_last_name">Last Name</string>
+    <string name="personal_data_label_gender_name">Gender</string>
+    <string name="personal_data_label_gender_male">Male</string>
+    <string name="personal_data_label_gender_female">Female</string>
+    <string name="personal_data_label_father_name">Father\'s Name</string>
+    <string name="personal_data_label_roll_no">Roll Number</string>
+    <string name="personal_data_label_personal_email">Personal Email (optional)</string>
+    <string name="personal_data_label_student_email">Student Email (optional)</string>
+    <string name="personal_data_label_mobile_no">@string/signup_hint_mobile_number</string>
+    <string name="personal_data_label_dob">Date of Birth</string>
+    <string name="personal_data_label_text_dob">%d-%d-%d</string>
+    <string name="personal_data_label_address">Address (optional)</string>
+    <string name="personal_data_label_department">Department</string>
+    <string name="personal_data_label_course">Course</string>
+    <string name="personal_data_update_profile_btn">UPDATE PROFILE</string>
+
+</resources>

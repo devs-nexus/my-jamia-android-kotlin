@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_50">#F6F6FF</color>
+    <color name="purple">#673AB7</color>
+    <color name="purple_700">#4E2891</color>
+    <color name="google_blue">#4F69FF</color>
+    <color name="light_gray">#414A50</color>
+    <color name="dark_gray">#2C2F33</color>
+    <color name="bg_color">@color/white</color>
+    <color name="text_color">#262A2E</color>
+
+    <color name="icon_tint">#21252B</color>
+    <color name="card_bg_color">@color/white</color>
+    <color name="card_shadow_color">@color/black</color>
+</resources>
